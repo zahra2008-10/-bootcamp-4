@@ -1,0 +1,47 @@
+.header {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 20px;
+  background-color: #22314b;
+  height: 70px;
+}
+.header span {
+  font-family: "Ortica Linear", "Ortica Linear Placeholder", serif;
+  font-feature-settings: "blwf", "cv03", "cv04", "cv09", "cv11";
+  font-size: 27px;
+  font-style: normal;
+  font-variation-settings: normal;
+  font-weight: 400;
+  height: 37.8056px;
+  letter-spacing: -1.35px;
+  line-height: 37.8px;
+  color: #fff;
+}
+.list-item {
+  display: flex;
+  list-style: none;
+  gap: 2rem;
+}
+.list-item a {
+  text-decoration: none;
+
+  font-family:
+    Geist,
+    "Geist Placeholder" sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  line-height: 24px;
+  letter-spacing: -0.32px;
+  color: #ffffffb3;
+  font-weight: 300;
+  font-feature-settings: "blwf", "cv03", "cv04", "cv09";
+}
+.btn-header {
+  width: 123.611px;
+  height: 44px;
+  background-color: #bae6fd;
+  color: #192750;
+  font-family: sans-serif;
+  font-size: 12px;
+  border-radius: 30px;
+}
